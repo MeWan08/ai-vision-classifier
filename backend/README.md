@@ -1,3 +1,11 @@
+---
+title: Image Classification API
+emoji: 📸
+colorFrom: blue
+colorTo: green
+sdk: docker
+pinned: false
+---
 # AI Vision Classifier
 
 A modern web application that uses machine learning to classify images with high accuracy. Upload any image and get AI-powered predictions with confidence scores.
